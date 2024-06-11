@@ -1,1 +1,1 @@
-The data exists in kaglle . url (https://www.kaggle.com/datasets/ryanholbrook/dl-course-data?select=hotel.csv)
+The data exists in kaggle . url (https://www.kaggle.com/datasets/ryanholbrook/dl-course-data?select=hotel.csv)
